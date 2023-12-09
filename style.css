@@ -1,0 +1,21 @@
+body{
+    background-image:url(./image/mountain.webp);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.top-left{
+    position: absolute;  
+    top: 10px;
+    left: 15px;
+}
+h1{
+    text-align: center;
+    margin-top: 250px;
+    
+}
+h2{
+    text-align: center;
+    margin-top: 2px;
+    text-decoration: overline;
+}
